@@ -1,2 +1,2 @@
 # greatMoose
-This is version 1.o test project
+This is version 2.o test project
